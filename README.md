@@ -1,6 +1,11 @@
 # Balanced-Binary-Search-Trees
 A project that implements size balanced binary search trees w/ various operations 
 
+
+![Size Balanced BST](https://cdn-images-1.medium.com/max/1600/1*OmRV7P0YluY2ToRj44jKGA.gif)
+
+
+
 ------------------------------------------------------------------------------------------------
 /* Function:  to_vector
    Description: creates a vector and populates it with the 
